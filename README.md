@@ -1,9 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:OvertimeBunny?theme=rule34">
 
 ### **社交主页：**
-
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
 -   <a href="https://t.me/+ivH_1de8P-U0NWY1">
       <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png"></code>
       </a>：Telegram 主页
