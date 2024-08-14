@@ -8,7 +8,7 @@
 
 ### 博客
 
-<a href="https://www.xn--h5q74xcj0bhth.icu">
+<a href="https://xn--h5q74xcj0bhth.icu/">
   <code><img height="20" src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png"></code>
 </a>：博客主页
 
